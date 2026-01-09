@@ -1,0 +1,72 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body {
+font-family: 'Segoe UI', Arial, sans-serif;
+background-color: #f3f4f6;
+color: #1f2937;
+line-height: 1.6;
+}
+
+
+.header {
+background: linear-gradient(135deg, #4f46e5, #6366f1);
+color: #fff;
+text-align: center;
+padding: 40px 20px;
+}
+
+
+main {
+max-width: 900px;
+margin: auto;
+padding: 20px;
+}
+
+
+section {
+background: #fff;
+margin-bottom: 20px;
+padding: 25px;
+border-radius: 12px;
+box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+}
+
+
+h2 {
+color: #4f46e5;
+margin-bottom: 15px;
+}
+
+
+ul {
+list-style: none;
+}
+
+
+ul li {
+padding: 6px 0;
+}
+
+
+.card {
+border-left: 4px solid #4f46e5;
+padding-left: 15px;
+margin-bottom: 15px;
+}
+
+
+.contato p {
+margin-bottom: 6px;
+}
+
+
+footer {
+text-align: center;
+padding: 15px;
+color: #6b7280;
+}
