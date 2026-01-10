@@ -1,0 +1,16 @@
+
+# 💼 Portfólio Profissional — Lívia Sthefany
+
+Este é meu portfólio pessoal desenvolvido com HTML e CSS, com foco em oportunidades de estágio.
+
+## 🚀 Tecnologias
+- HTML5
+- CSS3
+- Git e GitHub
+- Figma (UI/UX)
+
+## 🌐 Acesse o site
+🔗 https://seuusuario.github.io/portfolio
+
+## 📌 Objetivo
+Apresentar meus projetos acadêmicos, habilidades e evolução profissional.
